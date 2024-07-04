@@ -1,0 +1,15 @@
+{
+    "paths": {
+        "confusion_matrix": "/home/admpdi/Documentos/GitHub/cnnwheeltype/validation",
+        "loss_plot": "/home/admpdi/Documentos/GitHub/cnnwheeltype/validation",
+        "model": "/home/admpdi/Documentos/GitHub/cnnwheeltype/model"
+    },
+    "training": {
+        "num_epochs": 5,
+        "learning_rate": 0.001,
+        "data_augmentation": false,
+        "batch_size": 12,
+        "train_dataset_path": "~/Documentos/GitHub/cnnwheeltype/data/train",
+        "test_dataset_path": "~/Documentos/GitHub/cnnwheeltype/data/test"
+    }
+}
