@@ -44,7 +44,7 @@ Este projeto implementa um sistema de Rede Neural Convolucional (CNN) para a cla
 
 ## Arquitetura da CNN
 
-A arquitetura da CNN está definida no arquivo `models/model.py`. Inclui camadas de convolução, camadas de pooling e camadas totalmente conectadas. A saída final é mapeada para o número de classes (tipos de componentes de roda).
+A arquitetura da CNN está definida no arquivo `models/model.py`. Inclui camadas de convolução, camadas de pooling e camadas totalmente conectadas. A saída final é mapeada para o número de classes.
 
 ## Carregamento de Dados
 
