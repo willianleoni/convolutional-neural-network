@@ -1,1 +1,0 @@
-{"hyperparameters": {"num_epochs": 5, "learning_rate": 0.001, "batch_size": 12, "data_augmentation": false}, "confusion_matrix": [[75, 0, 0], [0, 75, 0], [0, 0, 75]], "train_loss": 0.013154657764971489, "test_loss": 0.004808244448596318}
